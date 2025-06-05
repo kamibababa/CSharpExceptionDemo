@@ -1,0 +1,15 @@
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\bin\Debug\net8.0\CSharpWebServer.exe
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\bin\Debug\net8.0\CSharpWebServer.deps.json
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\bin\Debug\net8.0\CSharpWebServer.runtimeconfig.json
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\bin\Debug\net8.0\CSharpWebServer.dll
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\bin\Debug\net8.0\CSharpWebServer.pdb
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\obj\Debug\net8.0\CSharpWebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\obj\Debug\net8.0\CSharpWebServer.AssemblyInfoInputs.cache
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\obj\Debug\net8.0\CSharpWebServer.AssemblyInfo.cs
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\obj\Debug\net8.0\CSharpWebServer.csproj.CoreCompileInputs.cache
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\obj\Debug\net8.0\CSharpWebServer.dll
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\obj\Debug\net8.0\refint\CSharpWebServer.dll
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\obj\Debug\net8.0\CSharpWebServer.pdb
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\obj\Debug\net8.0\CSharpWebServer.genruntimeconfig.cache
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\obj\Debug\net8.0\ref\CSharpWebServer.dll
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\bin\Debug\net8.0\aaa.txt
