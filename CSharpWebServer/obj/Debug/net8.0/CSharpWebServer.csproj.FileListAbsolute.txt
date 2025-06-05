@@ -13,3 +13,4 @@ C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\obj\Debug\net8.0\CS
 C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\obj\Debug\net8.0\CSharpWebServer.genruntimeconfig.cache
 C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\obj\Debug\net8.0\ref\CSharpWebServer.dll
 C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\bin\Debug\net8.0\aaa.txt
+C:\Users\songbo\source\repos\CSharpWebServer\CSharpWebServer\obj\Debug\net8.0\CSharpWebServer.sourcelink.json

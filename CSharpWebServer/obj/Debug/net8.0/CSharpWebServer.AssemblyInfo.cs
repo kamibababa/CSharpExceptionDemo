@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpWebServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d5f663e31e405b379c2d02b2dd6c235721e7431")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpWebServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpWebServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

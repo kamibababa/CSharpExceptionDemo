@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharpWebServer.Demo</StartupObject>
+    <StartupObject>CSharpWebServer.Program2</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
