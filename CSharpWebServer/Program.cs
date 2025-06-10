@@ -16,6 +16,7 @@ namespace CSharpWebServer
             // 开始监听
             listener.Start();
             Console.WriteLine("监听 http://localhost:8080/");
+            Random random = new Random();
 
             while (true)
             {
@@ -26,7 +27,7 @@ namespace CSharpWebServer
                 Console.WriteLine($"收到请求: {request.HttpMethod} {request.Url}");
 
                 // 构造响应内容
-                string responseString = "<html><body><h1>Hello, world!</h1></body></html>";
+                string responseString = "<h1>"+random.NextDouble()+"</h1>";
                 byte[] buffer = Encoding.UTF8.GetBytes(responseString);
                 
                 try
@@ -41,8 +42,8 @@ namespace CSharpWebServer
               
                 // 写入响应
                 HttpListenerResponse response = context.Response;
-                response.ContentLength64 = buffer.Length;
-                response.ContentType = "text/html; charset=UTF-8";
+                //response.ContentLength64 = buffer.Length;
+                //response.ContentType = "text/html; charset=UTF-8";
 
                 // 写入响应数据
                 response.OutputStream.Write(buffer, 0, buffer.Length);
